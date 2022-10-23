@@ -1,0 +1,16 @@
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\bin\Debug\numbers_analyzer.exe.config
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\bin\Debug\numbers_analyzer.exe
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\bin\Debug\numbers_analyzer.pdb
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer_MarkupCompile.cache
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer_MarkupCompile.lref
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.g.resources
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.Properties.Resources.resources
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.exe
+C:\Users\Администратор\source\repos\numbers_analyzer\numbers_analyzer\obj\Debug\numbers_analyzer.pdb
